@@ -5,7 +5,9 @@ STLs in this repository are licensed under the GNU General Public License v3.0 (
 
 Documents and other works in this repository are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license. For more details, please refer to the full license text below.
 
+## GNU General Public License v3.0 (GPLv3)
 <a name="GPLv3"></a>
+
 ```
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
@@ -683,7 +685,9 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 ```
 
+## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 <a name="CC-BY-NC-SA"></a>
+
 ```
 Attribution-NonCommercial-ShareAlike 4.0 International
 
